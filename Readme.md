@@ -1,3 +1,3 @@
 #Git course
 
-Este é um repositorio teste.
+Este é um repositorio teste do git.
